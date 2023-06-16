@@ -1,6 +1,5 @@
 import ContactStyle from "./ContactStyle";
 import { BsInstagram, BsWhatsapp, BsGithub } from 'react-icons/bs';
-import { SlSocialLinkedin } from 'react-icons/sl';
 import { FiMail } from 'react-icons/fi';
 import React from "react";
 
@@ -36,15 +35,6 @@ function Contact() {
             <li>
               <a
                 href="https://www.linkedin.com/in/gabriel-badaró-22b5b5234/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <SlSocialLinkedin />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.instagram.com/grbadas/?next=%2F"
                 target="_blank"
                 rel="noopener noreferrer"
               >
