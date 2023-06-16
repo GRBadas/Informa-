@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import HeroStyle from './HeroStyle';
-import HeroImg from '../imgs/pessoaPensando.jpeg';
+import HeroImg from '../../assets/imgs/pessoaPensando.jpeg';
 import React from 'react';
 
 function Hero() {

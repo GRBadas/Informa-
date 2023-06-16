@@ -2,7 +2,7 @@ import AboutStyle from "./AboutStyle";
 import { FaJava, FaReact } from 'react-icons/fa';
 import { DiJavascript1, DiMysql, DiHtml5, DiCss3 } from 'react-icons/di';
 import { SiSpringboot, SiTypescript } from 'react-icons/si';
-import foto from "../imgs/fakenews.jpg"
+import foto from "../../assets/imgs/fakenews.jpg"
 import React from "react";
 
 function About () { 

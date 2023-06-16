@@ -7,7 +7,7 @@ import { GiHamburgerMenu } from 'react-icons/gi';
 import { FiMail } from 'react-icons/fi';
 import { useState, useEffect } from 'react';
 import ResponsiveNav from "./ResponsiveNav";
-import Logo from "../imgs/logo.png";
+import Logo from "../../assets/imgs/logo.png";
 
 function Navbar() {
 
